@@ -1,7 +1,7 @@
 # Hackathon_07
 ##7/1ミーティング
 
-![grareco1](http://i.imgur.com/Jjwsc.jpg)
+![grareco1](https://imgur.com/3GuuSVu)
 
 ##7/5ミーティング
 
