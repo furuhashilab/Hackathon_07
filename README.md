@@ -1,12 +1,15 @@
 # Hackathon_07
 ## 7/1ミーティング
 
-<a href="https://imgur.com/gsnRcur"><img src="https://i.imgur.com/gsnRcur.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/gsnRcur"><img src="https://i.imgur.com/gsnRcur.jpg" title="source: imgur.com" /></a><img src="https://i.imgur.com/gsnRcur.jpg" width="300" height="200">
+
 
 ## 7/5ミーティング
 
-<a href="https://imgur.com/b5p4uvx"><img src="https://i.imgur.com/b5p4uvx.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/b5p4uvx"><img src="https://i.imgur.com/b5p4uvx.jpg" title="source: imgur.com" /></a><img src="https://i.imgur.com/b5p4uvx.jpg" width="300" height="200">
+
 
 ## 7/9-10ミーティング
 
-<a href="https://imgur.com/3GuuSVu"><img src="https://i.imgur.com/3GuuSVu.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/3GuuSVu"><img src="https://i.imgur.com/3GuuSVu.jpg" title="source: imgur.com" /></a><img src="https://i.imgur.com/3GuuSVu.jpg" width="300" height="200">
+
