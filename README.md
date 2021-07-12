@@ -13,3 +13,7 @@
 
 <img src="https://i.imgur.com/3GuuSVu.jpg" width="700" height="520">
 
+### 完成動画
+
+<a href="https://imgur.com/KRrtTkT"><img src="https://i.imgur.com/KRrtTkT.jpg" title="source: imgur.com" /></a>
+
