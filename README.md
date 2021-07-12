@@ -1,7 +1,7 @@
 # Hackathon_07
 ## 7/1ミーティング
 
-<img src="https://i.imgur.com/gsnRcur.jpg" width="600" height="400">
+<img src="https://i.imgur.com/gsnRcur.jpg" width="700" height="550">
 
 
 ## 7/5ミーティング
