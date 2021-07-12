@@ -13,7 +13,7 @@
 
 <img src="https://i.imgur.com/3GuuSVu.jpg" width="700" height="520">
 
-### 7/13スライド
+### 7/13発表スライド
 
 https://docs.google.com/presentation/d/1WfdNJJOlw9-UvQr0Vcq1FPYSkWidlQTcwdu-r0iyI2I/edit?usp=sharing
 
